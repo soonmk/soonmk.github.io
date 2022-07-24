@@ -16,7 +16,7 @@
 theme: just-the-docs #import theme name
 title: Soonmk
 description: Studying, Programming.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "https://soonmk.github.io" # the subpath of your site, e.g. /blog
 url: "https://soonmk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
