@@ -50,23 +50,29 @@ permalink: /
 - Microservice
 - Jenkins
 - Apache
+
 ### Database
 - RDB
+
 ### API
 - Rest API
+
 ### Server
 - AWS EC2 Instance
 - Managed Platform Service
 - AWS Elastic Beanstalk
 - Google App Engine
 - Linux
+
 ### Network
 - HTTP
 - DNS
 - AWS Route 53
 - Domain Management
+
 ### Storage
 - AWS S3
+
 ### Front-End
 - HTML
 - CSS
