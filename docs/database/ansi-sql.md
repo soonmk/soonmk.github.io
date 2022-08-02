@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ansi SQL
-parent: database
+parent: Database
 nav_order: 1
 permalink: docs/database/ansi-sql
 ---
