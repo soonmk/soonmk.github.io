@@ -58,6 +58,7 @@ Backend developer or Data scientist
 ### ODBMS
 
 ### SQL
+- Ansi SQL
 - Oracle
 - DB2
 - SQL Server
