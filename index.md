@@ -9,14 +9,13 @@ permalink: /
 # Soonmk
 {: .fs-9 }
 
-If I can make a living by studying, I have no wish.  
+If I can make a living by studying, I have no wish.
+
 I lived in Korea as a Java developer.  
 Now I am in Australia.  
 
-Goal 
-{: .fs-6 .fw-300 }
-Backend developer  
-Data scientist
+Want to be a  
+Backend developer or Data scientist
 
 [GitHub Profile](https://github.com/soonmk){: .btn .fs-5 .mb-4 .mb-md-0 }
 
