@@ -26,8 +26,6 @@ Backend developer or Data scientist
 ### JAVA
 - JAVA
 - Spring
-- Maven
-- Kotlin
 
 ### C#
 - .Net
@@ -36,31 +34,14 @@ Backend developer or Data scientist
 - django
 - Flask
 
-### PHP
-- Laravel
-
-### Ruby
-- Rails
-
 ### NodeJS
 - Express
 
 ---
 ## Database
-- File System
-- HDBMS
-- NDBMS
-- RDBMS
-- ODBMS
 
 ### SQL
 - Ansi SQL
-- Oracle
-- DB2
-- SQL Server
-- PostgreSQL
-- MySQL
-- SQLite
 
 ---
 ## API
@@ -70,28 +51,7 @@ Backend developer or Data scientist
 ---
 ## Server
 
-### AWS EC2 Instance
-
-### Managed Platform Service
-- AWS Elastic Beanstalk
-- Google App Engine
-
 ### Linux
-
----
-## Network
-
-### HTTP
-
-### DNS
-- AWS Route 53
-
-### Domain Management
-
----
-## Storage
-
-### AWS S3
 
 ---
 ## Front-End
@@ -99,8 +59,6 @@ Backend developer or Data scientist
 ### HTML
 
 ### CSS
-
-### TypeScript
 
 ### JavaScript
 - jQuery
@@ -125,7 +83,3 @@ Backend developer or Data scientist
 ### Microservice
 
 ### Jenkins
-
-### Apache
-
-### Excel
