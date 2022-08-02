@@ -13,12 +13,12 @@ If I can make a living by studying, I have no wish.
 I lived in Korea as a Java developer.  
 Now I am in Australia.  
 
-Goal
+Goal 
 {: .fs-6 .fw-300 }
 Backend developer  
 Data scientist
 
-[Language & Framework](#Language&Framework){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [GitHub Profile](https://github.com/soonmk){: .btn .fs-5 .mb-4 .mb-md-0 }
+[GitHub Profile](https://github.com/soonmk){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
