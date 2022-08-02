@@ -33,7 +33,7 @@ Backend developer or Data scientist
 - .Net
 
 ### Python
-- dJango
+- django
 - Flask
 
 ### PHP
@@ -45,20 +45,25 @@ Backend developer or Data scientist
 ### NodeJS
 - Express
 
-### System
-- Container
-- Container Runtime
-- Docker
-- Kubernetes
-- Microservice
-- Jenkins
-- Apache
-
 ---
 ## Database
+
+### File System
+
+### HDBMS
+
+### NDBMS
 ### RDBMS
 
 ### ODBMS
+
+### SQL
+- Oracle
+- DB2
+- SQL Server
+- PostgreSQL
+- MySQL
+- SQLite
 
 ---
 ## API
@@ -125,3 +130,5 @@ Backend developer or Data scientist
 ### Jenkins
 
 ### Apache
+
+### Excel
