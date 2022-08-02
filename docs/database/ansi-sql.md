@@ -3,6 +3,7 @@ layout: default
 title: Ansi SQL
 parent: database
 nav_order: 1
+permalink: /docs/database/ansi-sql
 ---
 
 # Ansi SQL
