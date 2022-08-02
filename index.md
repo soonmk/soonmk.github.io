@@ -54,13 +54,17 @@ Data scientist
 - Jenkins
 - Apache
 
+
+## Database
 ### RDBMS
 
 ### ODBMS
 
+
 ## API
 
 ### Rest API
+
 
 ## Server
 
@@ -72,6 +76,7 @@ Data scientist
 
 ### Linux
 
+
 ## Network
 
 ### HTTP
@@ -81,9 +86,11 @@ Data scientist
 
 ### Domain Management
 
+
 ## Storage
 
 ### AWS S3
+
 
 ## Front-End
 
@@ -104,6 +111,7 @@ Data scientist
 - JSTL
 
 ### Ajax
+
 
 ## Figure out
 
