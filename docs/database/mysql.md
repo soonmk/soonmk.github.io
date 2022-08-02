@@ -3,7 +3,7 @@ layout: default
 title: My SQL
 parent: database
 nav_order: 3
-permalink: /docs/database/mysql
+permalink: docs/database/mysql
 ---
 
 # MySQL

@@ -3,7 +3,7 @@ layout: default
 title: PostgreSQL
 parent: database
 nav_order: 5
-permalink: /docs/database/postgresql
+permalink: docs/database/postgresql
 ---
 
 # PostgreSQL
