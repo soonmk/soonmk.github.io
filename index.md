@@ -47,15 +47,11 @@ Backend developer or Data scientist
 
 ---
 ## Database
-
-### File System
-
-### HDBMS
-
-### NDBMS
-### RDBMS
-
-### ODBMS
+- File System
+- HDBMS
+- NDBMS
+- RDBMS
+- ODBMS
 
 ### SQL
 - Ansi SQL
