@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Python
-parent: language
+parent: Language
 nav_order: 4
 ---
