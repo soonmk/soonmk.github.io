@@ -1,7 +1,7 @@
 ---
 layout: default
 title: PostgreSQL
-parent: database
+parent: Database
 nav_order: 5
 permalink: docs/database/postgresql
 ---
