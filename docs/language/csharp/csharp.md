@@ -1,6 +1,6 @@
 ---
 layout: default
 title: C#
-parent: language
+parent: Language
 nav_order: 2
 ---
