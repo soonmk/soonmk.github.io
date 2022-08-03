@@ -1,7 +1,7 @@
 ---
 layout: default
 title: My SQL
-parent: database
+parent: Database
 nav_order: 3
 permalink: docs/database/mysql
 ---
