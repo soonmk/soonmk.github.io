@@ -4,9 +4,9 @@
 <br><br>
 <p align="center">
     <h1 align="center">Soonmk</h1>
-    <p align="center">This blog is fork from Just the Docs.<br>If you need further more details, please visit the link below.</p>
+    <p align="center">This book uses Jekyll, a static site generator, and the theme just-the-docs.<br>If you need further more details, please visit the link below.</p>
     <p align="center"><strong><a href="https://just-the-docs.github.io/just-the-docs/">See it in action!</a></strong></p>
-    <br><br><br>
+    <br>
 </p>
 
 ## License
