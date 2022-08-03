@@ -1,6 +1,6 @@
 ---
 layout: default
 title: NodeJS
-parent: language
+parent: Language
 nav_order: 3
 ---
