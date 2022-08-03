@@ -5,7 +5,7 @@
 <p align="center">
     <h1 align="center">Soonmk</h1>
     <p align="center">This blog uses Jekyll and the theme Just the Docs.<br>If you need further more details of Just the Docs, please visit the link below.</p>
-    <p align="center"><strong><a href="https://just-the-docs.github.io/just-the-docs/">See it in action!</a></strong></p>
+    <p align="center"><strong><a href="https://just-the-docs.github.io/just-the-docs/">Just the Docs</a></strong></p>
     <br>
 </p>
 
