@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Oracle
-parent: database
+parent: Database
 nav_order: 2
 permalink: docs/database/oracle
 ---
