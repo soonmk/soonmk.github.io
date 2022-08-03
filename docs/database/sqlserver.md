@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SQL Server
-parent: database
+parent: Database
 nav_order: 4
 permalink: docs/database/sqlserver
 ---
