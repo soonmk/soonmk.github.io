@@ -34,9 +34,6 @@ Backend developer or Data scientist
 - django
 - Flask
 
-### NodeJS
-- Express
-
 ---
 ## Database
 
@@ -54,32 +51,4 @@ Backend developer or Data scientist
 ### Linux
 
 ---
-## Front-End
-
-### HTML
-
-### CSS
-
-### JavaScript
-- jQuery
-- React
-- Vue.js
-- Angular
-- Bootstrap
-
-### JSP
-- JSTL
-
-### Ajax
-
----
-## Figure out
-
-### Container
-- Container Runtime
-- Docker
-- Kubernetes
-
-### Microservice
-
-### Jenkins
+## Microservice
