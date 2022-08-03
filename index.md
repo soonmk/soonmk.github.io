@@ -46,9 +46,7 @@ Backend developer or Data scientist
 ### Rest API
 
 ---
-## Server
-
-### Linux
+## Linux
 
 ---
 ## Microservice
