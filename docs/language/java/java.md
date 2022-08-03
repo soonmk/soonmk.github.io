@@ -1,6 +1,6 @@
 ---
 layout: default
 title: JAVA
-parent: language
+parent: Language
 nav_order: 1
 ---
