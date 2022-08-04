@@ -21,7 +21,7 @@ Backend developer or Data scientist
 
 ---
 
-## Language&Framework
+## Language
 
 ### JAVA
 - JAVA
