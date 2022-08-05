@@ -52,3 +52,18 @@ Backend developer or Data scientist
 ## Algorithm
 
 ---
+```js
+// Javascript code with syntax highlighting in fences
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+```
+```yaml
+# Aux links for the upper right navigation
+aux_links:
+  "Just the Docs on GitHub":
+    - "//github.com/just-the-docs/just-the-docs"
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: false
+```
