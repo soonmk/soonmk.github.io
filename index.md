@@ -15,7 +15,7 @@ Now I am in Australia.
 Want to be a  
 Backend developer or Data scientist
 
-[GitHub Profile] (https://github.com/soonmk){: .btn .fs-5 .mb-4 .mb-md-0 }
+[GitHub Profile](https://github.com/soonmk){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 ## Language
