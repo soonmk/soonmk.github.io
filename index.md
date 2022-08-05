@@ -9,8 +9,6 @@ permalink: /
 # Soonmk
 {: .fs-9 }
 
-If I can make a living by studying, I have no wish.
-
 I lived in Korea as a Java developer.  
 Now I am in Australia.  
 
