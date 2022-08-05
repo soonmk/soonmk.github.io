@@ -43,7 +43,7 @@ Backend developer or Data scientist
 ---
 ## API
 
-### Rest API
+- Rest API
 
 ---
 ## Linux
